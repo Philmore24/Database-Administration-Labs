@@ -61,3 +61,21 @@ Where applicable, the documentation includes:
 Examples include troubleshooting database installation problems,
 connectivity issues, insufficient privileges, tablespace limitations,
 user access restrictions, and PL/SQL compilation errors.
+
+## Academic Portfolio Notice
+
+This repository is a portfolio adaptation of hands-on work completed
+during CIT3013 Database Administration coursework.
+
+The repository focuses on my own implementations, SQL/PLSQL code,
+observations, troubleshooting, documentation, and results. Original
+assignment instructions are not reproduced.
+
+Credentials, student identifiers, and other sensitive information have
+been removed or replaced with placeholders before publication.
+
+## Purpose
+
+This repository is maintained as part of my technical portfolio to
+demonstrate practical database administration, security, troubleshooting,
+problem-solving, and technical documentation skills.
