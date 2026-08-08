@@ -1,4 +1,4 @@
-### Lab 3 — Database Security: Users, Roles & Privileges
+### Lab 3 - Database Security: Users, Roles & Privileges
 
 Implemented Oracle database access controls and tested how different
 privileges affected database users.
